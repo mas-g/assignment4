@@ -1,0 +1,114 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.2.24)  10 MAR 2018 23:02
+entering extended mode
+**beacon.tex
+(C:\Users\MASIGENIUS\Desktop\aasignment4\beacon.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\MASIGENIUS\Desktop\aasignment4\beacon.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+ [1
+
+{C:/Users/MASIGENIUS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+
+
+LaTeX Warning: No \author given.
+
+[2]
+Underfull \hbox (badness 1152) in paragraph at lines 37--39
+[]\OT1/cmr/m/n/12 Patrick Leddy. \OT1/cmr/m/it/12 "10 Things About Blue-tooth B
+ea-cons You Need to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+\OT1/cmr/m/n/12 Internet:https://www.cio.com/article/3037354/marketing/6-things
+-
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 39--41
+\OT1/cmr/m/n/12 marketers-need-to-know-about-beacons.html, Feb. 24, 2016 [Mar. 
+9,
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 41--43
+[]\OT1/cmr/m/n/12 Tony Danova. \OT1/cmr/m/it/12 "What They Are, How They Work, 
+And Why
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 41--43
+\OT1/cmr/m/it/12 Ap-ple's iBea-con Tech-nol-ogy Is Ahead of The Pack" \OT1/cmr/
+m/n/12 In-ter-net:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+\OT1/cmr/m/n/12 http://www.businessinsider.com/beacons-and-ibeacons-create-a-ne
+w-
+ []
+
+[3] (C:\Users\MASIGENIUS\Desktop\aasignment4\beacon.aux) ) 
+Here is how much of TeX's memory you used:
+ 230 strings out of 494019
+ 2703 string characters out of 3143867
+ 51862 words of memory out of 3000000
+ 3597 multiletter control sequences out of 15000+200000
+ 7362 words of font info for 26 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 22i,6n,19p,457b,203s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on beacon.pdf (3 pages, 98690 bytes).
+PDF statistics:
+ 36 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
